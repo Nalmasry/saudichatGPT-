@@ -1,0 +1,48 @@
+
+
+  #main-container { 
+    width: 500px; 
+    margin: 0 auto; 
+    padding: 10px; 
+    background-color: #edd7d0; 
+    border-radius: 5px; 
+    font-family: sans-serif; 
+} 
+ 
+#main-title { 
+    text-align: center; 
+    font-size: 20px; 
+    font-weight: bold; 
+    margin-bottom: 10px; 
+} 
+ 
+#main-content { 
+    display: flex; 
+    justify-content: space-between; 
+    margin-bottom: 10px; 
+} 
+ 
+#word-input { 
+    width: 80%; 
+    padding: 10px; 
+    border-radius: 5px; 
+    border: 1px solid #edd7d0; 
+} 
+ 
+#submit-btn { 
+    width: 18%; 
+    padding: 10px; 
+    background-color: darksalmon; 
+    color: white; 
+    font-size: 16px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+} 
+ 
+#reply-content { 
+    padding: 10px; 
+    background-color: #edd7d0; 
+    border-radius: 5px; 
+    font-family: sans-serif; 
+}
